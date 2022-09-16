@@ -1,0 +1,131 @@
+commit 9ed58d39a0e8e9bffbfabed06e9df7538d15e45e
+Merge: 40002f6 043f443
+Author: Froilán Steven González Game <froigonla123@gmail.com>
+Date:   Fri Sep 16 17:30:26 2022 -0500
+
+    Merge branch 'main' of https://github.com/FrioLaN/prueba_v2
+
+commit 043f443d1c927d4a1ab234f5a6f369989265957a
+Merge: da7017c 8207208
+Author: Froilán Steven González Game <froigonla123@gmail.com>
+Date:   Fri Sep 16 17:26:26 2022 -0500
+
+    Merge pull request #1 from Froilan-Game/fork_froilan1
+    
+    change readme.md
+
+commit 8207208cd622151763ca19c2de585909977626b1
+Author: froilan-game <gamefroilan01@gmail.com>
+Date:   Fri Sep 16 17:11:37 2022 -0500
+
+    no se xddd
+
+commit 13b6ecdc11ad21508df76ccf81ab4288b6479ede
+Author: froilan-game <gamefroilan01@gmail.com>
+Date:   Fri Sep 16 15:05:02 2022 -0500
+
+    cambio de prueba de la segunda cuenta de git
+
+commit 40002f601e0f29db7e04e189c32897bec1f04342
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Fri Sep 16 10:39:47 2022 -0500
+
+    v0.1.1
+
+commit da7017cab0769af1925575ac2aaf19d821c109e9
+Merge: edefbe7 0ba22ba
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Fri Sep 16 10:37:14 2022 -0500
+
+    no see
+
+commit 0ba22ba78cddeeaed65370cb83097d2a01c28010
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Fri Sep 16 10:32:17 2022 -0500
+
+    v0.1.1
+
+commit 956fc1569dda41b7646115d6737557c2b752d75c
+Merge: d1c56e2 8f820eb
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Wed Sep 14 17:21:43 2022 -0500
+
+    agregando las fechas de inicio de las estaciones del año
+
+commit d1c56e20270e5b77201401406f8a96c257b76138
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Wed Sep 14 17:07:10 2022 -0500
+
+    agregando estaciones del año con su fecha de inicio
+
+commit 8f820ebed7f41b88ff1433d6abe196d08af53d03
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Wed Sep 14 17:07:10 2022 -0500
+
+    añadiendo estaciones del año
+
+commit edefbe7fca79110468711eb70173761d75bb82ed
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Wed Sep 14 16:56:49 2022 -0500
+
+    añadiendo funcionalidad del js.js
+
+commit 9782b224624f7b76aa3ec1cecad4874896c03567
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Wed Sep 14 16:07:43 2022 -0500
+
+    js.js
+
+commit b25c5ecb1a4f6ce51301c938eff23d23f9012916
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Tue Sep 13 14:06:36 2022 -0500
+
+    añadiendo dev.dev
+
+commit cd53d690e187c29fe5b127d7000271204b36aeb2
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Tue Sep 13 13:45:22 2022 -0500
+
+    .ignore
+
+commit 9f09eec016eed9d00f841ba03ffe21c0602fd6aa
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Tue Sep 13 13:39:48 2022 -0500
+
+    añadiendo el gitignoree
+
+commit 25c69f74e5a558b78fb18584299753c1970c7e79
+Author: Froilán Steven González Game <froigon345@gmail.com>
+Date:   Mon Sep 12 16:24:58 2022 -0500
+
+    creando licensia del repositorio
+
+commit 1207177b0a74412d873ee41b1f90a58f37e3e998
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Mon Sep 12 15:45:06 2022 -0500
+
+    arreglando al readme AHORA SI
+
+commit 1dcc528f9dd8890da317457359a6c9bf95928bc1
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Mon Sep 12 15:44:41 2022 -0500
+
+    arreglando al readme
+
+commit 3fea0ac1cf4b4e3fee896853dfb4882aed4a41aa
+Author: FrioLaN <froigon345@gmail.com>
+Date:   Mon Sep 12 15:43:59 2022 -0500
+
+    añadiendo mas cosas al readme
+
+commit 5278a93d6ff17229bf2f9ef6ca4b08464f28c90a
+Author: Froilán Steven González Game <Froigon345@gmail.com>
+Date:   Mon Sep 12 15:03:37 2022 -0500
+
+    añadiendo el encabezado del readme
+
+commit 83c8c9a0da79148ca61eea9f0a5710dc560dbd89
+Author: Froilán Steven González Game <Froigon345@gmail.com>
+Date:   Mon Sep 12 14:59:30 2022 -0500
+
+    subiendo el proyecto
